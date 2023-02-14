@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g id="arrow" transform="translate(1536.11 39.111) rotate(180)">
+    <rect id="Rectangle_1797" data-name="Rectangle 1797" width="14" height="14" transform="translate(1522.11 25.111)" fill="none"/>
+    <path id="back" d="M12.047,7.682H2.8L5.58,4.9a.526.526,0,1,0-.744-.744L1.154,7.837a.526.526,0,0,0,0,.744l3.682,3.682a.526.526,0,1,0,.744-.744L2.8,8.735h9.251a.526.526,0,1,0,0-1.052Z" transform="translate(1522.323 23.902)" fill="#0e1013"/>
+  </g>
+</svg>
